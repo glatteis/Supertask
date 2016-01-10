@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="14" height="14" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="ladder" tilewidth="16" tileheight="16" tilecount="4">
+  <image source="../../textures/ladder.png" width="64" height="16"/>
+ </tileset>
+ <tileset firstgid="5" name="stone" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="../../textures/stone.png" width="144" height="16"/>
+ </tileset>
+ <tileset firstgid="14" name="wood" tilewidth="16" tileheight="16" tilecount="3">
+  <image source="../../textures/wood.png" width="48" height="16"/>
+ </tileset>
+ <layer name="blocks" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJydklEKwCAMQ/Njtfix+992CikEGaM1UIrCw9TUABhLNVZNdmcfcu5kHvzrljvZRjbDBevksu8pZ2SzXLBVn8pVfG5N1P5TuYb6fJFfdb4bTnPP+tQ9i/z6h5dzt13uX0SsArE=
+  </data>
+ </layer>
+ <layer name="ladders" width="14" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFLAzkAUYy9THRWR8znfWRG570jgd6+49c+8iNd2LdCQA/IAAp
+  </data>
+ </layer>
+</map>

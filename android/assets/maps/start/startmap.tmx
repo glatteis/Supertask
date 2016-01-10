@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="15" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="stone" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="../../textures/stone.png" width="144" height="16"/>
+ </tileset>
+ <tileset firstgid="10" name="ladders" tilewidth="16" tileheight="16" tilecount="4">
+  <image source="../../textures/ladder.png" width="64" height="16"/>
+ </tileset>
+ <layer name="blocks" width="40" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztlsEOgDAIQzmI/P8f62Em+AJ48GAPNiEmDGsXN6ib2XaGryfDh3VPMb3Humoto+KMlduLbwXqPeXI1enxxFXtjfoCnGrg3tTAf6gGnmU15PMZH2upkO+coj72DDWwT6nh7y/vwJmjhmmWZt1h97vEWdv5hBhq2Nuq2s6bTLN98iKd9+n8wxP3lT8ArNADrA==
+  </data>
+ </layer>
+ <layer name="ladders" width="40" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg8gGegHUAAcA20AwgA7oF2AAEw2MNvsKe/wR6/vAPtAAJgNPwoA4M9fwx29w328m+wp7+hCAD39gCX
+  </data>
+ </layer>
+</map>

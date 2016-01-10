@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="ladder" tilewidth="16" tileheight="16" tilecount="4">
+  <image source="../../textures/ladder.png" width="64" height="16"/>
+ </tileset>
+ <tileset firstgid="5" name="stone" tilewidth="16" tileheight="16" tilecount="9">
+  <image source="../../textures/stone.png" width="144" height="16"/>
+ </tileset>
+ <tileset firstgid="14" name="wood" tilewidth="16" tileheight="16" tilecount="3">
+  <image source="../../textures/wood.png" width="48" height="16"/>
+ </tileset>
+ <layer name="blocks" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFltkKwzAMBP3i+P//uAQaUIdZJ6E5BCJuajsraXX01tpStH91gQ75PcqZenbVKtu7gX2jPEe5x/alb432i6feW++zb/LuIVqF/unY26G0I51NPid+s6/i384cFfrSYrNgbfGo2BmHpR23ge/PCPEZLq4t3vaecabdxk1y54zYncZj2kI/72ElJ3n2CiF/6N+U75XP5t/EPePdHZLicqTO7dVVe94tyafm25Sve/y8KxYU4w77m2G0HCEXn4gF7TBuk1fMK9ZW5tyTdjTBM+uVKf9Nz/aJf8Vqks0Z5JLVwTftsH5v+UsOzvrK0zY04LE18yPVtjdjkXo2sXVZ21z1do5zDiLe1P9nfngqJsaTNGeneFh8rp6rZviTDVaPOCtbTqdzzBmbv2yW57yQZh/zPTk24xb3sN/wXeqp9X/zNfHbDGU9YW+OWvd8ADQXDrU=
+  </data>
+ </layer>
+ <layer name="ladders" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1IENACAMArDp/P9mn2CDEHqAgRBXNecNvr2p2QFAsocWlx6XHQAkPbTkXmnJHlqyh5bDDgDiskd6aHH5H5t39wPvQwA8
+  </data>
+ </layer>
+ <layer name="background" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAACAtwEPoAAB
+  </data>
+ </layer>
+</map>
